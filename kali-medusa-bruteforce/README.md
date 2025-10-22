@@ -157,5 +157,3 @@ Essa demonstração mostra como senhas fracas e repetidas são facilmente explor
 ## 👨‍💻 Autor
 
 **Vitor Lopes Fernandes de Souza**  
-Estudante de TADS e entusiasta em Cibersegurança  
-🔗 [GitHub Profile](https://github.com/)
