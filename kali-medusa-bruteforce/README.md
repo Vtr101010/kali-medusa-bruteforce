@@ -36,8 +36,7 @@ Resultado principal:
 445/tcp open  microsoft-ds
 ```
 
-📸 **Print:** `/images/nmap_scan.png`
-
+📸 **Print:** `/images/nmap_scan.png
 ---
 
 ## 🔎 Etapa 2 – Detecção Detalhada de Serviços
